@@ -25,7 +25,7 @@ require (
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/cortexproject/cortex v1.11.0
 	github.com/davidmparrott/kafka_exporter/v2 v2.0.1
-	github.com/docker/docker v20.10.24+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/drone/envsubst/v2 v2.0.0-20210730161058-179042472c46
 	github.com/fatih/color v1.14.1
@@ -458,7 +458,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mna/redisc v1.3.2 // indirect
-	github.com/moby/sys/mount v0.3.0 // indirect
 	github.com/moby/sys/mountinfo v0.5.0 // indirect
 	github.com/moby/term v0.0.0-20220808134915-39b0c02b01ae // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
@@ -601,6 +600,8 @@ require (
 require (
 	github.com/efficientgo/tools/core v0.0.0-20220817170617-6c25e3b627dd // indirect
 	github.com/gomodule/redigo v1.8.9 // indirect
+	github.com/moby/patternmatcher v0.6.0 // indirect
+	github.com/moby/sys/sequential v0.5.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/willf/bitset v1.1.11 // indirect
 	github.com/willf/bloom v2.0.3+incompatible // indirect
